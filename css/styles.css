@@ -531,14 +531,11 @@ letter-spacing: 0.03em;
         margin-bottom: 10px; 
     }
     .card-content {
-        padding-top: 30px;
-        padding-bottom: 30px;
-        padding-left: 32px;
-        padding-right: 32px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 24px;
+        padding-right: 24px;
         list-style: none;
-        border-radius: box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-        border-radius: 0px 0px 4px 4px;
-        ;
     }
     
     .card-content .title {
@@ -548,7 +545,7 @@ letter-spacing: 0.03em;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 18,75px;
+        line-height: 18px;
     }
     
     .card-content .text {
@@ -1010,6 +1007,7 @@ border: 1px solid #EEEEEE;
     font-size: 18px;
     line-height: 36px;
     letter-spacing: 0.06em;
+    
     margin-bottom: 4px;
     list-style: none;
 }
